@@ -10,7 +10,7 @@ def fizz_buzz(limit):
             print(i)
 
 def main():
-    fizz_buzz(int(sys.argv[1])
+    fizz_buzz(int(sys.argv[1]))
 
-if __name__ = '__main__':
+if __name__ == '__main__':
 	main()
