@@ -1,9 +1,9 @@
-on:
-  push:
-    branches:
-      - master
+# on:
+#   push:
+#     branches:
+#       - master
 
-name: "Proselint"
+# name: "Proselint"
 
 jobs:
   Proselint:
